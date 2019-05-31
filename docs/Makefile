@@ -6,6 +6,9 @@ zh: #zh_CN
 
 all: en zh
 	mkdocs build
+	cp default/img/favicon.ico site/img
+	cp default/img/favicon.ico en_US/site/img
+	cp default/img/favicon.ico zh_CN/site/img
 	mv en_US/site site/en_US
 	mv zh_CN/site site/zh_CN
 	find site/ -type f|xargs sed -i '/Built with <a href="http:\/\/www.mkdocs.org">MkDocs<\/a>/d'
