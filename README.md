@@ -1,5 +1,5 @@
-# cc-docs
-CCDEX documentation
+# cc-wiki
+CCDEX wiki: https://ccdex.top/wiki
 ***
 # Install requires
 ## Install/Check Python
