@@ -1,4 +1,5 @@
 site_name: CCDEX
+#docs_dir: default
 nav:
         - Home: index.md
         - Key Technique: KeyTechnique.md
