@@ -1,10 +1,7 @@
 ## Decentralized cross-chain protocol
+*All crypto-assets are based on a specific cryptographic algorithm. DCCP implements the connection of crypto-assets by parsing and translating different cryptographic algorithms. In the process of connection, DCCP uses the advanced cryptographic technology, which is based on the secure multi-party computing protocol MPC, to carry out secure multi-party calculations for keys of specific target-type crypto-assets, in order to transparently complete the connection and circulation of different kinds of digital assets. In the whole process of operation and verification, there is no complete key, which eliminates the hidden danger of key leakage.*
 
-*Decentralized cross-chain protocol (DCCP) is a provable security scheme based on MPC algorithm. It is an encryption algorithm used according to the target block chain, completes the generation of public key and signature with N nodes in distributed method. And in the process of generating and using, there is always no complete private key. In this way, the management of cross-chain crypto-assets is realized. After that, we will give the mathematical proof of the related algorithms and the related cryptography research results which we refer to.*
-
-*At present, DCCP has supported ECDSA algorithm, so that DCCP has supported thousands of crypto-assets which use ECDSA algorithm, accounting for about 80% of the total crypto-assets. In the future, DCCP will support other crypto-assets by supporting more algorithms.*
-
-*DCCP is a protocol implemented at the core of the underlying block chain, so it can provide cross-chain support for all applications built on top of the block chain.*
+*Different from the other cross-chain protocol implement ed in the application layer, CCDEX built the cross-chain protocol DCCP into the core code layer of the blockchain, thus achieving seamless, transparent and efficient cross-chain support for upper-layer applications.*
 
 ## Distributed memory matching engine
 *Distributed memory matching engine uses call auction trading mechanism matched with Block chain periodicity. For more information of this rules, please refer to the "Deal making rules" entry.*
