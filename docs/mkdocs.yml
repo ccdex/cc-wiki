@@ -1,0 +1,12 @@
+site_name: CCDEX
+docs_dir: default
+#favicon: img/favicon.ico
+nav:
+        - Home: index.md
+        - Key Technique: KeyTechnique.md
+        - Rule and incentive models: RulesAndIncentiveModels.md
+#theme: cinder
+#theme: mkdocs
+theme: readthedocs
+
+copyright: &copy 2018 - 2019 <a href="https://ccdex.top/">CCDEX</a> Foundation. All rights reserved.

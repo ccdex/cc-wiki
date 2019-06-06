@@ -1,0 +1,10 @@
+site_name: CCDEX
+nav:
+        - 主页: index.md
+        - 关键技术: KeyTechnique.md
+        - 规则和激励模型: RulesAndIncentiveModels.md
+#theme: cinder
+#theme: mkdocs
+theme: readthedocs
+
+copyright: &copy 2018 - 2019 <a href="https://ccdex.top/">CCDEX</a> Foundation. All rights reserved.
