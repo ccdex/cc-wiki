@@ -1,5 +1,9 @@
 # cc-wiki
+<<<<<<< HEAD
 CCDEX wiki: https://ccdex.top/wiki
+=======
+CCDEX wiki: https://ccdex.top/docs
+>>>>>>> b3fedd534562c3181e8c83b881b5cc37b76e42b9
 ***
 # Install requires
 ## Install/Check Python
