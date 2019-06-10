@@ -20,7 +20,7 @@
 
 ### 1.1.2. 功能按钮
 
-<div align=center>![图 1-2](media/image2.jpeg)</div>
+![图 1-2](media/image2.jpeg)
 
 *图 1‑2*
 
@@ -32,7 +32,7 @@
 
 ③. "钱包"菜单。点击出现下拉框，其中显示当前钱包可执行的操作，如图 1-3所示。
 
-<div align=center>![图 1‑3](media/image3.jpg)</div>
+![图 1‑3](media/image3.jpg)
 
 ###### .　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　<center>*图 1‑3*</center>
 
