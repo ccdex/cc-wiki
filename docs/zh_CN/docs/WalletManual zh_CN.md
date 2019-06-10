@@ -6,7 +6,7 @@
 
 ### 1.1.1. 页面内容
 
-![图 1-1](media/image1.jpeg)
+<center>![图 1-1](media/image1.jpeg)</center>
 
 ###### .　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　<center>*图 1‑1*</center>
 
