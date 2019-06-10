@@ -1,4 +1,4 @@
-# **CCDEX Cross-chain multi-asset wallet operation manual**
+# <center>CCDEX Cross-chain multi-asset wallet operation manual</center>
 
 # 1. Operation Interface
 
@@ -8,10 +8,9 @@
 
 ![](img/image1.jpeg)
 
-*Figure* *1‑1*
+###### .　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　<center>*Figure* *1‑1*</center>
 
-The home page consists of three parts. As shown in *Figure 1-1*, they
-are:
+The home page consists of three parts. As shown in *Figure 1-1*, they are:
 
 \[ 1 \].  Top menu bar.
 
