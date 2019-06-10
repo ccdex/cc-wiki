@@ -10,7 +10,8 @@
 
 ###### .　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　<center>*Figure* *1‑1*</center>
 
-The home page consists of three parts. As shown in *Figure 1-1*, they are:
+The home page consists of three parts. As shown in *Figure 1-1*, they
+are:
 
 \[ 1 \].  Top menu bar.
 
@@ -22,7 +23,7 @@ The home page consists of three parts. As shown in *Figure 1-1*, they are:
 
 ![](img/image2.jpeg)
 
-*Figure* *1‑2*
+###### .　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　<center>*Figure* *1‑2*</center>
 
 As shown in *Figure 1-2*, the buttons for the home page and their functions are as follows:
 
@@ -32,7 +33,7 @@ B.  \"Explorer\" menu. Used to jump to a block browser page.
 
 C.  \"Wallet\" menu. Click it, there is a drop-down box that shows what the current operations can be done. As shown in *Figure 1-3*.
 
->　　　　　　　　　　　　　　　　　　　　　![](img/image3.png)
+>　　　　　　　　　　　　　　　　　　　![](img/image3.png)
 
 ###### .　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　<center>*Figure* *1‑3*</center>
 
@@ -55,7 +56,7 @@ G.  \"Contact\" area on the right. From left to right are LinkedIn, Medium, Jian
 ![](img/image4.jpeg) 
  
 
-*Figure* *1‑4*
+###### .　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　<center>*Figure* *1‑4*</center>
 
 The "Login Wallet" page consists of three parts. As shown in *Figure
 1-4*, they are:
@@ -70,7 +71,7 @@ The "Login Wallet" page consists of three parts. As shown in *Figure
 
 ![](img/image5.jpeg) 
 
-*Figure1‑5*
+###### .　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　<center>*Figure* *1‑5*</center>
 
 As shown in *Figure 1-5*, the new buttons of the "Login Wallet" page and their functions are as follows:
 
@@ -84,7 +85,7 @@ B.  Operation button. Used to import the corresponding files according to differ
 
 ![](img/image6.jpg)
 
-*Figure* *1‑6*
+###### .　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　<center>*Figure* *1‑6*</center>
 
 The \"My Wallet\" page consists of three parts. As shown in *Figure 1-6*, they are:
 
@@ -98,7 +99,7 @@ The \"My Wallet\" page consists of three parts. As shown in *Figure 1-6*, they a
 
 ![](img/image7.jpeg)
 
-*Figure* *1‑7*
+###### .　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　<center>*Figure* *1‑7*</center>
 
 As shown in *Figure 1-7*, the new buttons of the \"My Wallet\" page and its functions are as follows:
 
@@ -135,7 +136,7 @@ Assets Deposit/Withdraw\" page.
 
 ![](img/image8.jpeg)
 
-*Figure* *1‑8*
+###### .　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　<center>*Figure* *1‑8*</center>
 
 The \"Intra-Chain Transfer\" page consists of four parts. As shown in *Figure 1-8*, they are:
 
@@ -151,7 +152,7 @@ The \"Intra-Chain Transfer\" page consists of four parts. As shown in *Figure 1-
 
 ![](img/image9.jpeg) 
 
-*Figure* *1‑9*
+###### .　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　<center>*Figure* *1‑9*</center>
 
 \"Intra-Chain Transfer\" page is divided into two operation interfaces: \"Receive\" and \"Send\".
 
@@ -167,7 +168,7 @@ D.  \"Copy clipboard\" button. Click to copy the receiving address to the clipbo
 
 ![](img/image10.jpeg) 
 
-*Figure* *1‑10*
+###### .　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　<center>*Figure* *1‑10*</center>
 
 As shown in *Figure 1-10*, the new buttons of the \"Send\" interface and its functions are as follows:
 
@@ -177,7 +178,7 @@ B.  \"Advanced\" button. Click to display the advanced parameter setting interfa
 
 ![](img/image11.jpg) 
 
-*Figure* *1‑11*
+###### .　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　<center>*Figure* *1‑11*</center>
 
 > You can set the parameters such as Nonce value, Gas Price and Gas Limit.
 >
@@ -191,7 +192,7 @@ C.  \"Send\" button. Click to send an intra-chain transfer transaction.
 
 ![](img/image12.jpeg) 
 
-*Figure* *1‑12*
+###### .　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　<center>*Figure* *1‑12*</center>
 
 The \" Cross-Chain Assets Deposit/Withdraw \" page consists of four parts. As shown in *Figure 1-12*, they are:
 
@@ -207,7 +208,7 @@ The \" Cross-Chain Assets Deposit/Withdraw \" page consists of four parts. As sh
 
 ![](img/image13.jpeg) 
 
-*Figure* *1‑13*
+###### .　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　<center>*Figure* *1‑13*</center>
 
 \"Cross-Chain Assets Deposit/Withdraw\" page is divided into two operation interfaces: \"Deposit\" and \"Withdraw\".
 
@@ -225,13 +226,13 @@ E.  \"Advanced\" button. As shown in *Figure 1-14*.
 
 ![](img/image14.jpeg) 
 
-*Figure* *1‑14*
+###### .　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　<center>*Figure* *1‑14*</center>
 
 > Click to display the transaction hash input interface to manually submit cross-chain asset deposit confirmation by entering the known asset deposit transaction hash.
 
 ![](img/image15.jpeg) 
 
-*Figure* *1‑15*
+###### .　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　<center>*Figure* *1‑15*</center>
 
 As shown in *Figure 1-15*, the new buttons of the \"Withdraw\" interface and its functions are as follows:
 
@@ -241,7 +242,7 @@ B.  \"Advanced\" button. Click to display the advanced parameter setting interfa
 
 ![](img/image11.jpg) 
 
-*Figure* *1‑16*
+###### .　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　<center>*Figure* *1‑16*</center>
 
 > You can set the parameters such as Nonce value, Gas Price and Gas Limit.
 >
@@ -255,7 +256,7 @@ B.  \"Advanced\" button. Click to display the advanced parameter setting interfa
 
 ![](img/image16.jpeg) 
 
-*Figure* *1‑17*
+###### .　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　<center>*Figure* *1‑17*</center>
 
 The \"Wallet Backup\" page consists of three parts. As shown in *Figure 1-17*, they are:
 
@@ -271,7 +272,7 @@ The \"Wallet Backup\" page consists of three parts. As shown in *Figure 1-17*, t
 
 ![](img/image17.jpeg) 
 
-*Figure* *1‑18*
+###### .　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　<center>*Figure* *1‑18*</center>
 
 As shown in *Figure 1-18*, the new buttons of the \"Wallet Backup\" page and its functions are as follows:
 
@@ -293,7 +294,7 @@ Step 1, in the start page shown in *Figure 2-1*, click the \"Create Wallet\" but
 
 ![](img/image18.jpeg) 
 
-*Figure* *2‑1*
+###### .　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　<center>*Figure* *2‑1*</center>
 
 Step 2, the wallet creation interface is shown in *Figure 2-2*. Enter the password for the new wallet in a dialog box called \"Enter a 
 password\".
@@ -302,13 +303,13 @@ Passwords consist of letters, numbers and special characters greater than or equ
 
 ![](img/image19.jpg)
 
-*Figure* *2‑2*
+###### .　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　<center>*Figure* *2‑2*</center>
 
 Step 3, click the "Next Step" button to generate a new wallet. As shown in *Figure 2-3*.
 
 ![](img/image20.jpg)
 
-*Figure* *2‑3*
+###### .　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　<center>*Figure* *2‑3*</center>
 
 Step 4, after the wallet is generated, you will be prompted to save the Keystore.
 
@@ -320,25 +321,25 @@ As shown in *Figure 2-4*.
 
 ![](img/image21.png) 
 
-*Figure* *2‑4*
+###### .　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　<center>*Figure* *2‑4*</center>
 
 After clicking the \"Download Keystore File (UTC / JSON)\" button, select the location and file name you want to save, click \"Save\" to complete the save of the Keystore file. As shown in *Figure 2-5*.
 
-![](img/image22.jpg)
+>　　　　　　![](img/image22.jpg)
 
-*Figure* *2‑5*
+###### .　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　<center>*Figure* *2‑5*</center>
 
 Step 5, please confirm that you have saved your Keystore, then click \"I understand. Continue. \" the button. As shown in *Figure 2-6*.
 
-![](img/image23.jpg)
+>　　　　　　　　　　　　　　　　　![](img/image23.jpg)
 
-*Figure* *2‑6*
+###### .　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　<center>*Figure* *2‑6*</center>
 
 The page jumps back to the start page. As shown in *Figure 2-7*.
 
 ![](img/image24.png) 
 
-*Figure* *2‑7*
+###### .　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　<center>*Figure* *2‑7*</center>
 
 Users can log in to the newly created wallet by clicking \"Login Wallet\". Now, the wallet creation is complete.
 
@@ -350,13 +351,13 @@ Users can click the \"Login Wallet\" button on the Home page to enter the login 
 
 ![](img/image25.jpeg) 
 
-*Figure* *2‑8*
+###### .　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　<center>*Figure* *2‑8*</center>
 
 CCDEX supports a variety of wallet login methods.
 
 ![](img/image26.png) 
 
-*Figure* *2‑9*
+###### .　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　<center>*Figure* *2‑9*</center>
 
 As shown in the left menu in *Figure 2-9*, they are:
 
@@ -376,19 +377,19 @@ Step 1, select the "Keystore/JSON File" item from the left menu. Click \"SELLECT
 
 ![](img/image27.jpeg) 
 
-*Figure* *2‑10*
+###### .　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　<center>*Figure* *2‑10*</center>
 
 Step 2, select the location of the Keystore file where you want to log in to the wallet, enter the corresponding password, and click the \"Unlock\" button. As shown in *Figure 2-11*.
 
-![](img/image28.jpg)
+>　　　　　　　　　　　![](img/image28.jpg)
 
-*Figure* *2‑11*
+###### .　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　<center>*Figure* *2‑11*</center>
 
 Log in to the wallet successfully, then jumps to the \"My Wallet\" page. As shown in *Figure 2-12*.
 
 ![](img/image29.png) 
 
-*Figure* *2‑12*
+###### .　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　<center>*Figure* *2‑12*</center>
 
 Here you can see the balance of all the assets in the wallet and so on.
 
@@ -400,27 +401,27 @@ In order to use the function of cross-chain assets management in your wallet, yo
 
 Step 1, click the \"Apply Cross-Chain" button on the top left of \"My Wallet\" page. As shown in *Figure 2-13*.
 
-![](img/image30.jpeg)
+>　　　　　　　　　　　　　　　![](img/image30.jpeg)
 
-*Figure* *2‑13*
+###### .　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　<center>*Figure* *2‑13*</center>
 
 Step 2, enter the password for the wallet and click the \"Unlock\" button. As shown in *Figure 2-14*.
 
 ![](img/image31.png) 
 
-*Figure* *2‑14*
+###### .　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　<center>*Figure* *2‑14*</center>
 
 Step 3, after seeing the \"success\" prompt at the bottom of the page, click the refresh button on the right side of the menu at the top of the page. As shown in *Figure 2-15*.
 
 ![](img/image32.jpeg) 
 
-*Figure* *2‑15*
+###### .　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　<center>*Figure* *2‑15*</center>
 
 The \"Deposit/Withdraw\" appears in the \"Action\" column of all cross-chain assets in my wallet, indicating that the deposit and withdrawal address generation of cross-chain assets is complete. As shown in *Figure 2-16*.
 
 ![](img/image33.jpeg) 
 
-*Figure* *2‑16*
+###### .　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　<center>*Figure* *2‑16*</center>
 
 ## 2.3. Backup your wallet
 
@@ -428,9 +429,9 @@ After logging in to the wallet, the user can back up the Keystore file and priva
 
 Step 1, enter the backup Wallet operation page by clicking the icon on the right side of the top menu. As shown in *Figure 2-17*.
 
-![](img/image34.jpeg)
+>　　　　　　　　　　　　　　　　　　　　　　　　![](img/image34.jpeg)
 
-Figure2‑17
+###### .　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　<center>*Figure* *2‑17*</center>
 
 Step 2, before backup wallet, you will be asked again to login of the wallet which you want to back up.
 
@@ -440,13 +441,13 @@ Select the Keystore file where you want to back up the wallet, enter the appropr
 
 ![](img/image35.png) 
 
-*Figure* *2‑18*
+###### .　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　<center>*Figure* *2‑18*</center>
 
 When the wallet successfully logs in, the page will jump to the "Wallet Backup" page. As shown in *Figure 2-19*.
 
 ![](img/image36.jpg) 
 
-*Figure* *2‑19*
+###### .　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　<center>*Figure* *2‑19*</center>
 
 On this page, the Keystore file and private key of this wallet are displayed. You can save the Keystore file, or you can view and copy the private key, and view the corresponding QR code file.
 
@@ -463,23 +464,23 @@ Step 1, click the \"Transfer\" menu on the top menu to enter the \"Intra-Chain T
 
 ![](img/image37.jpg)
 
-*Figure* *2‑20*
+###### .　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　<center>*Figure* *2‑20*</center>
 
 ![](img/image38.png) 
 
-*Figure* *2‑21*
+###### .　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　<center>*Figure* *2‑21*</center>
 
 The default is the asset \"Receive\" interface, which can be confirmed in blue through the \"Receive\" button. As shown in *Figure 2-22*.
 
-![](img/image39.jpg)
+>　　　　　　　　　　　　　　　　![](img/image39.jpg)
 
-*Figure* *2‑22*
+###### .　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　<center>*Figure* *2‑22*</center>
 
 Step 2, in the receiving address dialog box, there is the intra-chain transfer address of this wallet. As shown in *Figure 2-23*.
 
 ![](img/image40.jpeg) 
 
-Figure2‑23
+###### .　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　<center>*Figure* *2‑23*</center>
 
 **Notice:**
 
@@ -489,25 +490,25 @@ Figure2‑23
 
 There are two ways to get the wallet\'s intra-chain transfer address. The first is to click the "Show QR code" button and display the QR code for the address. The address can be sent as a QR code to the user who wants to transfer money to you. As shown in *Figures 2-24* and *Figures 2-25*.
 
-![](img/image41.jpg)
+>　　　　　　　　　　　　　　　　　　　　![](img/image41.jpg)
 
-*Figure* *2‑24*
+###### .　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　<center>*Figure* *2‑24*</center>
 
-![](img/image42.jpg)
+>　　　　　　　　　　　　　　　![](img/image42.jpg)
 
-*Figure* *2‑25*
+###### .　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　<center>*Figure* *2‑25*</center>
 
 The second way is to click the \"Copy clipboard\" button to copy the address to the system clipboard, as shown in *Figure 2-26*.
 
-![](img/image43.jpg)
+>　　　　　　　　　　　　　　　　　　　　　![](img/image43.jpg)
 
-*Figure* *2‑26*
+###### .　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　<center>*Figure* *2‑26*</center>
 
 Copy successfully, with a \"Copy Success\" prompt at the top of the page. As shown in *Figure 2-27*.
 
-![](img/image44.jpg)
+>　　　　　　　　　　　　　　　![](img/image44.jpg)
 
-*Figure* *2‑27*
+###### .　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　<center>*Figure* *2‑27*</center>
 
 Then send the copied address to the user who wants to transfer money to you through other means.
 
@@ -519,19 +520,19 @@ There are several ways. First, on the \"My Wallet\" page, click the \"Send\" ite
 
 ![](img/image45.jpg) 
 
-*Figure* *2‑28*
+###### .　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　<center>*Figure* *2‑28*</center>
 
 The second way, in the "Receive" interface of "Transfer" page, click the\" Send \"button to enter the asset send interface. As shown in *Figure 2-29*.
 
-![](img/image46.jpg)
+>　　　　　　　　　　　　　　　　![](img/image46.jpg)
 
-*Figure* *2‑29*
+###### .　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　<center>*Figure* *2‑29*</center>
 
 In the asset send interface, you can switch the assets you need to operate through the asset selection drop-down box. As shown in *Figure 2-30*.
 
-![](img/image47.jpeg)
+>　　　　　　　　　　　　　　　　![](img/image47.jpeg)
 
-*Figure* *2‑30*
+###### .　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　<center>*Figure* *2‑30*</center>
 
 Step 2, fill in the transfer transaction information.
 
@@ -539,7 +540,7 @@ Enter the target address of the intra-chain transfer in \"Send Address\" and the
 
 ![](img/image48.jpg) 
 
-*Figure* *2‑31*
+###### .　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　<center>*Figure* *2‑31*</center>
 
 **Notice:**
 
@@ -553,7 +554,7 @@ You can also activate the "Advanced" button to set the parameters of transaction
 
 ![](img/image49.jpg) 
 
-*Figure* *2‑32*
+###### .　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　<center>*Figure* *2‑32*</center>
 
 Step 3, send the transaction.
 
@@ -563,13 +564,13 @@ The password for the current wallet will be required to unlock. As shown in *Fig
 
 ![](img/image50.jpg) 
 
-*Figure* *2‑33*
+###### .　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　<center>*Figure* *2‑33*</center>
 
 Enter the correct password and click the \"Unlock\" button, and the transaction confirmation window will appear. As shown in *Figure 2-34*.
 
 ![](img/image51.jpg) 
 
-*Figure* *2‑34*
+###### .　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　<center>*Figure* *2‑34*</center>
 
 After checking the transaction information, click \"Yes, I am sure!\" Button, the transaction will be sent to the block chain.
 
@@ -581,19 +582,19 @@ A prompt for \"Success\" appears at the bottom of the page, indicating that the 
 
 ![](img/image32.jpeg) 
 
-*Figure* *2‑35*
+###### .　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　<center>*Figure* *2‑35*</center>
 
 And you can see the relevant transactions in the \"History\". As shown in *Figure 2-36*.
 
 ![](img/image52.jpeg) 
 
-*Figure* *2‑36*
+###### .　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　<center>*Figure* *2‑36*</center>
 
 Click the arrow on the far right of the transaction record to query for more detailed historical transaction information, as shown in *Figure 2-37*.
 
 ![](img/image53.jpg) 
 
-*Figure* *2‑37*
+###### .　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　<center>*Figure* *2‑37*</center>
 
 This information includes:
 
@@ -623,29 +624,29 @@ Click the "Cross-Chain" menu on the top menu to enter the \"Cross-chain Asset De
 
 ![](img/image54.jpg)
 
-*Figure* *2‑38*
+###### .　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　<center>*Figure* *2‑38*</center>
 
 ![](img/image55.png) 
 
-*Figure* *2‑39*
+###### .　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　<center>*Figure* *2‑39*</center>
 
 In addition, you can enter the \"Cross-Chain Asset Deposit/Withdraw\" interface of the corresponding digital asset through the \"My Wallet\" page, in the \"Action\" item of the asset list, click on the \"Deposit\" of the line of the asset you want to operate. As shown in *Figure 2-40*.
 
 ![](img/image56.jpg) 
 
-*Figure* *2‑40*
+###### .　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　<center>*Figure* *2‑40*</center>
 
 At this point, the default is the cross-chain asset \"Deposit\" interface, which can be confirmed by if the \"Deposit\" button is blue. As shown in *Figure 2-41*.
 
-![](img/image57.jpg)
+>　　　　　　　　　　　　　　　　![](img/image57.jpg)
 
-*Figure* *2‑41*
+###### .　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　<center>*Figure* *2‑41*</center>
 
 You can switch the assets you need to operate through the asset selection drop-down box, where we select BTC as the object of action. As shown in *Figure 2-42*.
 
-![](img/image58.jpeg)
+>　　　　　　　　　　　　　　　　![](img/image58.jpeg)
 
-*Figure* *2‑42*
+###### .　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　<center>*Figure* *2‑42*</center>
 
 **Notice:**
 
@@ -657,7 +658,7 @@ In the \"BTC Deposit Address\" dialog box, there is the BTC cross-chain asset de
 
 ![](img/image59.jpg) 
 
-*Figure* *2‑43*
+###### .　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　<center>*Figure* *2‑43*</center>
 
 **Notice:**
 
@@ -665,25 +666,25 @@ In the \"BTC Deposit Address\" dialog box, there is the BTC cross-chain asset de
 
 There are two ways to get BTC cross-chain asset deposit address. The first is to click the "Show QR code" button and display the QR code for this address. The address can be sent as a QR code to the user who wants to transfer BTC to you. As shown in *Figures 2-44* and *Figure 2-45*.
 
-![](img/image41.jpg)
+>　　　　　　　　　　　　　　　　　　　　![](img/image41.jpg)
 
-*Figure* *2‑44*
+###### .　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　<center>*Figure* *2‑44*</center>
 
-![](img/image60.jpg)
+>　　　　　　　　　　　　　　　　![](img/image60.jpg)
 
-*Figure* *2‑45*
+###### .　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　<center>*Figure* *2‑45*</center>
 
 The second is to click the \"Copy clipboard\" button to copy the address to the system clipboard, as shown in Figure 2-46.
 
-![](img/image43.jpg)
+>　　　　　　　　　　　　　　　　　　　　　![](img/image43.jpg)
 
-*Figure* *2‑46*
+###### .　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　<center>*Figure* *2‑46*</center>
 
 Copy successfully, with a \"Copy Success\" prompt at the top of the page. As shown in *Figure 2-47*.
 
-![](img/image44.jpg)
+>　　　　　　　　　　　　　　　　![](img/image44.jpg)
 
-*Figure* *2‑47*
+###### .　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　<center>*Figure* *2‑47*</center>
 
 Then send the copied address to the user who wants to transfer money to you through other means.
 
@@ -697,13 +698,13 @@ CCDEX wallets query for successful transactions by deposit addresses. The new tr
 
 ![](img/image61.jpeg) 
 
-*Figure* *2‑48*
+###### .　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　<center>*Figure* *2‑48*</center>
 
 Click on the \"\>\" symbol next to the transaction hash under \"Information\" to get more information about the deposit transaction. As shown in *Figure 2-49*.
 
 ![](img/image62.jpg)
 
-*Figure* *2‑49*
+###### .　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　<center>*Figure* *2‑49*</center>
 
 In addition to automatic queries, users can enter the transaction hash that is known to be transferred to the deposit address successful in the \"Transaction Hash\" text box. The \"Transaction Hash\" text box will be displayed by activating the \"Advanced\" button.
 
@@ -711,33 +712,33 @@ Then click the \"Deposit\" button to manually initiate the entry request. As sho
 
 ![](img/image14.jpeg) 
 
-*Figure* *2‑50*
+###### .　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　<center>*Figure* *2‑50*</center>
 
 Step 2, confirm the transaction.
 
 By clicking the \"Deposit\" button under \"Actions\" in \"History\" to submit the recharge transaction which you need to confirm. As shown in *Figure 2-51*.
 
-![](img/image63.jpg)
+>　　　　　　　　　　　　　　　　　　　　　　　![](img/image63.jpg)
 
-*Figure* *2‑51*
+###### .　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　<center>*Figure* *2‑51*</center>
 
 After submission, the user is asked to enter the current wallet password. Click the \"Unlock\" button. As shown in *Figure 2-52*.
 
 ![](img/image64.png) 
 
-*Figure* *2‑52*
+###### .　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　<center>*Figure* *2‑52*</center>
 
 Submit the confirmed cross-chain asset deposit transaction, verify and write to the block, complete the mapping of cross-chain assets. Tips for successful processing will be displayed at the bottom of the page. As shown in *Figure 2-53*.
 
 ![](img/image32.jpeg) 
 
-*Figure* *2‑53*
+###### .　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　<center>*Figure* *2‑53*</center>
 
 At this time, click the \"Home\" menu in the top menu to return to the "My Wallet" page, and the new asset balance will be displayed in the corresponding assets. As shown in *Figure 2-54*.
 
-![](img/image65.jpg)
+>　　　　　　　　　　　　　　　　　![](img/image65.jpg)
 
-*Figure* *2‑54*
+###### .　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　<center>*Figure* *2‑54*</center>
 
 ### 2.5.3. Withdraw
 
@@ -747,21 +748,21 @@ Step 1, switch to the Cross-chain Asset withdrawal interface.
 
 There are several ways to switch to the cross-chain asset withdrawal interface. The first is to click the \"Withdraw\" button in the \"cross-chain asset deposit\" interface to complete the interface switching. As shown in *Figure 2-55*.
 
-![](img/image66.jpg)
+>　　　　　　　　　　　　　　　![](img/image66.jpg)
 
-*Figure* *2‑55*
+###### .　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　<center>*Figure* *2‑55*</center>
 
 In addition, on the \"My Wallet\" page, click the \"Withdraw\" option to the right of the corresponding asset, it will jump to the withdrawal interface of this asset too. As shown in *Figure 2-56*.
 
 ![](img/image67.jpg) 
 
-*Figure* *2‑56*
+###### .　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　<center>*Figure* *2‑56*</center>
 
 Through the asset drop-down box, you can select the digital assets you need to operate on. As shown in *Figure 2-57*.
 
-![](img/image68.jpeg)
+>　　　　　　　　　　　　　　　　![](img/image68.jpeg)
 
-*Figure* *2‑57*
+###### .　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　<center>*Figure* *2‑57*</center>
 
 Step 2, fill in the cross-chain asset withdrawal transaction.
 
@@ -769,7 +770,7 @@ Fill in the information of the asset withdrawal transaction, including the targe
 
 ![](img/image69.jpeg) 
 
-*Figure* *2‑58*
+###### .　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　<center>*Figure* *2‑58*</center>
 
 **Notice:**
 
@@ -781,27 +782,27 @@ Advanced settings for transaction parameters are made by activating the \"Advanc
 
 ![](img/image70.jpeg) 
 
-*Figure* *2‑59*
+###### .　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　<center>*Figure* *2‑59*</center>
 
 Step 3, send a cross-chain asset extraction transaction.
 
 After the transaction is completed, click the \"Withdraw\" button to send the cross-chain asset withdrawal transaction. As shown in *Figure 2-60*.
 
-![](img/image71.jpg)
+>　　　　　　　　　　　　　　　　　　![](img/image71.jpg)
 
-*Figure* *2‑60*
+###### .　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　<center>*Figure* *2‑60*</center>
 
 After submission, the user is asked to enter the password for the current wallet. And click the \"Unlock\" button. As shown in *Figure 2-61*.
 
 ![](img/image72.png) 
 
-*Figure* *2‑61*
+###### .　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　<center>*Figure* *2‑61*</center>
 
 Enter the correct password and click the \"Unlock\" button, and the transaction confirmation window will appear for the user to confirm. As shown in *Figure 2-62*.
 
 ![](img/image51.jpg)
 
-*Figure* *2‑62*
+###### .　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　<center>*Figure* *2‑62*</center>
 
 After checking the transaction information, click \"Yes, I am sure!\" button, the transaction will be executed and sent to the block chain.
 
@@ -813,19 +814,19 @@ A prompt for \"Success\" appears at the bottom of the page, indicating that the 
 
 ![](img/image32.jpeg) 
 
-*Figure* *2‑63*
+###### .　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　<center>*Figure* *2‑63*</center>
 
 And you can see the relevant transactions in the \"History\". As shown in Figure 2-64.
 
 ![](img/image73.jpg) 
 
-*Figure* *2‑64*
+###### .　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　<center>*Figure* *2‑64*</center>
 
 Click on the \"\>\" symbol on the far right of the transaction record to query for more detailed historical transaction information, as shown in *Figure 2-65*.
 
 ![](img/image74.jpg) 
 
-*Figure* *2‑65*
+###### .　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　<center>*Figure* *2‑65*</center>
 
 In addition, you can view the changes in the account balance from my wallet.
 
