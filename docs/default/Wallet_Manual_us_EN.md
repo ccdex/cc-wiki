@@ -32,9 +32,9 @@ B.  \"Explorer\" menu. Used to jump to a block browser page.
 
 C.  \"Wallet\" menu. Click it, there is a drop-down box that shows what the current operations can be done. As shown in *Figure 1-3*.
 
-![](img/image3.png)
+>　　　　　　　　　　　　　　　　　　　　　![](img/image3.png)
 
-*Figure* *1‑3*
+###### .　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　<center>*Figure* *1‑3*</center>
 
 > These two menus perform \"Create Wallet\" and \"Login Wallet\", respectively.
 
