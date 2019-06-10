@@ -6,7 +6,7 @@
 
 ### 1.1.1. 页面内容
 
-<center>![图 1-1](media/image1.jpeg)</center>
+![图 1-1](media/image1.jpeg)
 
 ###### .　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　<center>*图 1‑1*</center>
 
@@ -20,7 +20,7 @@
 
 ### 1.1.2. 功能按钮
 
-![图 1-2](media/image2.jpeg)
+<div align=center>![图 1-2](media/image2.jpeg)</div>
 
 *图 1‑2*
 
@@ -32,9 +32,9 @@
 
 ③. "钱包"菜单。点击出现下拉框，其中显示当前钱包可执行的操作，如图 1-3所示。
 
-![图 1‑3](media/image3.jpg)
+<div align=center>![图 1‑3](media/image3.jpg)</div>
 
-<center>*图 1‑3*</center>
+###### .　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　<center>*图 1‑3*</center>
 
 > 分别可执行"创建钱包"和"登录钱包"的操作。
 
