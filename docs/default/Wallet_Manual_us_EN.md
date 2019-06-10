@@ -544,9 +544,11 @@ Enter the target address of the intra-chain transfer in \"Send Address\" and the
 
 **Notice:**
 
-**A. The number of amount filled in should be less than the amount of account balance.**
+**A. When transferring asset in intra-chain, no matter what assets are sent, the target address of the transfer uses the address of the user on the CCDEX! YOU CANNOT USE THE DEPOSIT ADDRESS OF THE CORRESPONDING ASSET HERE.**
 
-**B. Intra-chain transfers require consumption of CCD as a fee, so you need to ensure that there is a sufficient balance of CCD in the user account.**
+**B. The number of amount filled in should be less than the amount of account balance.**
+
+**C. Intra-chain transfers require consumption of CCD as a fee, so you need to ensure that there is a sufficient balance of CCD in the user account.**
 
 You can also activate the "Advanced" button to set the parameters of transaction fee. If not, the transaction is sent with default parameters. As shown in *Figure 2-32*.
 
@@ -594,9 +596,17 @@ Click the arrow on the far right of the transaction record to query for more det
 
 *Figure* *2‑37*
 
-In addition, you can view the changes in the account balance from \"My Wallet\".
+This information includes:
 
-According to the sending address, the receiving address or the transaction hash, can also query the information and status of the transaction through the block browser (https://ccdex.top/explorer).
+A.	The hash of this transaction on CCDEX. 
+
+B.	The id of this transaction on CCDEX. 
+
+C.	"From Address" of this transaction. 
+
+Users can query the information and status of the transaction through the block browser (https://ccdex.top/explorer) according to the above information and the receiving address of the transaction (To Address).
+
+In addition, you can view the changes in the account balance from \"My Wallet\".
 
 ## 2.5. Cross-Chain assets deposit/withdraw
 
@@ -763,6 +773,8 @@ Fill in the information of the asset withdrawal transaction, including the targe
 *Figure* *2‑58*
 
 **Notice:**
+
+**You need to reconfirm that the “Withdrawal Address” uses the correct address of the corresponding asset.**
 
 **Cross-Chain asset withdrawal requires consumption of CCD and handling fees for target assets in external block chain transactions. Therefore, it is necessary to ensure that both the CCD and the extracted assets in the wallet have sufficient balances to cover the relevant handling fees.**
 
