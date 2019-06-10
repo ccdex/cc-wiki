@@ -837,18 +837,18 @@ According to the sending address, the receiving address or the transaction hash,
 ## 3.1. Explorer of test net
 
 The Explorer of CCDEX test net:
-[[https://ccdex.top/explorer/]{.underline}](https://ccdex.top/explorer/)
+[[https://ccdex.top/explorer/]](https://ccdex.top/explorer/)
 
 The Explorer of Bitcoin test net:
-[[https://live.blockcypher.com/btc-testnet]{.underline}](https://live.blockcypher.com/btc-testnet)
+[[https://live.blockcypher.com/btc-testnet]](https://live.blockcypher.com/btc-testnet)
 
 The Explorer of Ethereum Rinkeby test net:
-[[https://rinkeby.etherscan.io/]{.underline}](https://rinkeby.etherscan.io/)
+[[https://rinkeby.etherscan.io/]](https://rinkeby.etherscan.io/)
 
 ## 3.2. Get the token of test net
 
 Get BTC of Bitcoin test net:
-[[https://bitcoinfaucet.uo1.net/]{.underline}](https://bitcoinfaucet.uo1.net/)
+[[https://bitcoinfaucet.uo1.net/]](https://bitcoinfaucet.uo1.net/)
 
 Get ETH of Ethereum Rinkeby test net:
-[[https://faucet.rinkeby.io/]{.underline}](https://faucet.rinkeby.io/)
+[[https://faucet.rinkeby.io/]](https://faucet.rinkeby.io/)
