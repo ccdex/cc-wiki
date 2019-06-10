@@ -825,15 +825,14 @@ CCDEX钱包会查询向充值地址的成功交易。查询到的新交易将显
 
 ### 3.1. 测试网区块浏览器
 
-CCDEX测试网区块浏览器：[[https://ccdex.top/explorer/]{.underline}](https://ccdex.top/explorer/)
+CCDEX测试网区块浏览器：[[https://ccdex.top/explorer/]](https://ccdex.top/explorer/)
 
-比特币测试网区块浏览器：[[https://live.blockcypher.com/btc-testnet]{.underline}](https://live.blockcypher.com/btc-testnet)
+比特币测试网区块浏览器：[[https://live.blockcypher.com/btc-testnet]](https://live.blockcypher.com/btc-testnet)
 
-以太坊Rinkeby测试网区块浏览器：[[https://rinkeby.etherscan.io/]{.underline}](https://rinkeby.etherscan.io/)
+以太坊Rinkeby测试网区块浏览器：[[https://rinkeby.etherscan.io/]](https://rinkeby.etherscan.io/)
 
-3.2. 测试币获取地址
--------------------
+## 3.2. 测试币获取地址
 
-比特币测试网测试币获取地址：[[https://bitcoinfaucet.uo1.net/]{.underline}](https://bitcoinfaucet.uo1.net/)
+比特币测试网测试币获取地址：[[https://bitcoinfaucet.uo1.net/]](https://bitcoinfaucet.uo1.net/)
 
-以太坊测试网测试币获取地址：[[https://faucet.rinkeby.io/]{.underline}](https://faucet.rinkeby.io/)
+以太坊测试网测试币获取地址：[[https://faucet.rinkeby.io/]](https://faucet.rinkeby.io/)
