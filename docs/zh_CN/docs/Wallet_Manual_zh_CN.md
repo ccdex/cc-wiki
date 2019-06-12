@@ -833,6 +833,8 @@ CCDEX测试网区块浏览器：[[https://ccdex.top/explorer/]](https://ccdex.to
 
 ## 3.2. 测试币获取地址
 
+CCDEX测试网测试币获取地址：[[https://ccdex.top/faucet/]](https://ccdex.top/faucet/)
+
 比特币测试网测试币获取地址：[[https://bitcoinfaucet.uo1.net/]](https://bitcoinfaucet.uo1.net/)
 
 以太坊测试网测试币获取地址：[[https://faucet.rinkeby.io/]](https://faucet.rinkeby.io/)
