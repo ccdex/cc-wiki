@@ -847,6 +847,9 @@ The Explorer of Ethereum Rinkeby test net:
 
 ## 3.2. Get the token of test net
 
+Get CCD of CCDEX test net:
+[[https://ccdex.top/faucet/]](https://ccdex.top/faucet/)
+
 Get BTC of Bitcoin test net:
 [[https://bitcoinfaucet.uo1.net/]](https://bitcoinfaucet.uo1.net/)
 
