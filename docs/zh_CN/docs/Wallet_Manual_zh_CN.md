@@ -110,13 +110,15 @@
 
 ⑥. 功能菜单，从左到右分别是：
 
-> i.  "钱包备份"。用于跳转到钱包密钥存储库或者私钥备份页面。
+> i. “CCD”测试币获取。用于获得CCDEX测试网上的测试币。
 
-> ii. "帮助"。显示相关帮助。
+> ii. "钱包备份"。用于跳转到钱包密钥存储库或者私钥备份页面。
 
-> iii. "刷新"。用于刷新当前页面。
+> iii. "帮助"。显示相关帮助。
 
-> iv. "退出"。用于退出当前登录。
+> iv. "刷新"。用于刷新当前页面。
+
+> v. "退出"。用于退出当前登录。
 
 ⑥. "Apply Cross-Chain"按钮。用于一键生成所有跨链资产的充提地址。
 
@@ -821,6 +823,30 @@ CCDEX钱包会查询向充值地址的成功交易。查询到的新交易将显
 
 除此之外，可以从"我的钱包"查看账户余额的变化。
 
+## 2.6.	获得CCD测试代币
+
+有两种方式可以获得CCD测试代币。
+
+方法一：访问(https://ccdex.top/faucet/ ）。在对话框中填入CCDEX的账户地址，并点击“Give me CCD”按钮。该地址将获得20个CCD测试代币。如图 2-66所示。
+
+![图 2‑66](img/image78.jpeg)
+
+###### .　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　<center>*图 2‑66*</center>
+
+方法二：登录钱包之后，在“我的钱包”页面，顶部菜单的右侧功能菜单中，点击CCD测试代币水龙头图标。如图 2-67所示。
+
+![图 2‑67](img/image79.jpeg)
+
+###### .　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　<center>*图 2‑67*</center>
+
+此时，默认填入所登录的钱包地址。点击“Give me CCD”按钮，就可以获得20个CCD测试代币。如图 2-68所示。
+
+![图 2‑68](img/image80.jpeg)
+
+###### .　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　<center>*图 2‑68*</center>
+
+每个地址可以获取一次CCD测试代币。获取之后，通过刷新或重新登录“我的钱包”页面，即可看到余额更新。
+
 ## 3. 工具及其他
 
 ### 3.1. 测试网区块浏览器
@@ -838,3 +864,12 @@ CCDEX测试网测试币获取地址：[[https://ccdex.top/faucet/]](https://ccde
 比特币测试网测试币获取地址：[[https://bitcoinfaucet.uo1.net/]](https://bitcoinfaucet.uo1.net/)
 
 以太坊测试网测试币获取地址：[[https://faucet.rinkeby.io/]](https://faucet.rinkeby.io/)
+
+## 3.3. 获取手册更新
+
+可以从以下渠道获得最新的钱包操作手册。
+
+1.	访问GitHub，[[https://github.com/ccdex/cc-wiki/blob/master/docs/zh_CN/docs/Wallet_Manual_zh_CN.md]](https://github.com/ccdex/cc-wiki/blob/master/docs/zh_CN/docs/Wallet_Manual_zh_CN.md)
+
+2.	访问CCDEX网站的文档库，[[https://ccdex.top/docs/zh_CN/]](https://ccdex.top/docs/zh_CN/)
+
