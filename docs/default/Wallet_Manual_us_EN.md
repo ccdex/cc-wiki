@@ -97,7 +97,7 @@ The \"My Wallet\" page consists of three parts. As shown in *Figure 1-6*, they a
 
 ### 1.3.2. Functions and Buttons
 
-![](img/image7.jpeg)
+![](img/image7.jpg)
 
 ###### .　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　<center>*Figure* *1‑7*</center>
 
@@ -113,13 +113,15 @@ D.  The address of the wallet you logged in. Click to copy the address to the cl
 
 E.  Function menu, from left to right are:
 
->  i.  \"Wallet backup\". Used to jump to the backup page for wallet Keystore or private key.
+>  i. CCD Faucet. Used to get CCD token of CCDEX test net.
 
->  ii. \"Help\". Displays relevant help information.
+>  ii. \"Wallet backup\". Used to jump to the backup page for wallet Keystore or private key.
 
->  iii. \"Refresh\". Used to refresh the current page.
+>  iii. \"Help\". Displays relevant help information.
 
->  iv. \"Log out\". Used to exit the current login.
+>  iv. \"Refresh\". Used to refresh the current page.
+
+>  v. \"Log out\". Used to exit the current login.
 
 F.  \"Apply Cross-Chain\" button. Used to generate the address of all cross-chain assets in one click.
 
@@ -832,6 +834,30 @@ In addition, you can view the changes in the account balance from my wallet.
 
 According to the sending address, the receiving address or the transaction hash, can also query the information and status of the transaction through the block browser (https://ccdex.top/explorer).
 
+## 2.6.	Get CCD test token
+
+There are two ways to get CCD test tokens. 
+
+First way, access https://ccdex.top/faucet/. Fill in the account address of your CCDEX in the dialog box and click "Give me CCD" button. This address will receive 20 ccd test tokens. As shown in Figure 2-66.
+
+![图 2‑66](img/image75.jpg)
+
+###### .　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　<center>*图 2‑66*</center>
+
+Second way, after logging in to your wallet, click on the icon of CCD faucet on the right function menu of the top menu on the "My Wallet" page. As shown in Figure 2-67.
+
+>　　　　　　　　　　![图 2‑67](img/image76.jpg)
+
+###### .　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　<center>*图 2‑67*</center>
+
+At this point, fill in the wallet address you logged in by default. Click "Give me CCD" button to get 20 CCD test tokens. As shown in Figure 2-68.
+
+>　　　　　![图 2‑68](img/image77.jpg)
+
+###### .　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　<center>*图 2‑68*</center>
+
+Every CCDEX account can get CCD test token one time. After obtaining, you can see the balance update by refreshing or re-logging in the "My Wallet" page.
+
 # 3. Tools and other
 
 ## 3.1. Explorer of test net
@@ -855,3 +881,11 @@ Get BTC of Bitcoin test net:
 
 Get ETH of Ethereum Rinkeby test net:
 [[https://faucet.rinkeby.io/]](https://faucet.rinkeby.io/)
+
+## 3.3. Get the operation manual update
+
+The latest wallet manual can be obtained from the following channels. 
+
+A.	GitHub: [[https://github.com/ccdex/cc-wiki/blob/master/docs/default/Wallet_Manual_us_EN.md]](https://github.com/ccdex/cc-wiki/blob/master/docs/default/Wallet_Manual_us_EN.md)
+
+B.	Document library on the CCDEX web site: [[https://ccdex.top/docs/en_US/]](https://ccdex.top/docs/en_US/)
