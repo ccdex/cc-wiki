@@ -829,19 +829,19 @@ CCDEX钱包会查询向充值地址的成功交易。查询到的新交易将显
 
 方法一：访问(https://ccdex.top/faucet/ ）。在对话框中填入CCDEX的账户地址，并点击“Give me CCD”按钮。该地址将获得20个CCD测试代币。如图 2-66所示。
 
-![图 2‑66](img/image78.jpeg)
+![图 2‑66](img/image78.jpg)
 
 ###### .　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　<center>*图 2‑66*</center>
 
 方法二：登录钱包之后，在“我的钱包”页面，顶部菜单的右侧功能菜单中，点击CCD测试代币水龙头图标。如图 2-67所示。
 
-![图 2‑67](img/image79.jpeg)
+>　　　　　　　　　　　　　　　　　![图 2‑67](img/image79.jpg)
 
 ###### .　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　<center>*图 2‑67*</center>
 
 此时，默认填入所登录的钱包地址。点击“Give me CCD”按钮，就可以获得20个CCD测试代币。如图 2-68所示。
 
-![图 2‑68](img/image80.jpeg)
+![图 2‑68](img/image80.jpg)
 
 ###### .　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　<center>*图 2‑68*</center>
 
