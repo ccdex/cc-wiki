@@ -94,7 +94,7 @@
 
 ### 1.3.2. 功能按钮
 
-![图 1‑7](img/image7.jpeg)
+![图 1‑7](img/image7.jpg)
 
 ###### .　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　<center>*图 1‑7*</center>
 
