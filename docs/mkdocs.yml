@@ -1,10 +1,6 @@
 site_name: CCDEX
 docs_dir: default
-<<<<<<< HEAD
-favicon: img/favicon.ico
-=======
 #favicon: img/favicon.ico
->>>>>>> b3fedd534562c3181e8c83b881b5cc37b76e42b9
 nav:
         - Home: index.md
         - Key Technique: KeyTechnique.md
