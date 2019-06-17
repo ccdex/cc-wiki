@@ -4,6 +4,7 @@ nav:
         - Home: index.md
         - Key Technique: KeyTechnique.md
         - Rule and incentive models: RulesAndIncentiveModels.md
+        - Wallet Manual: Wallet_Manual_us_EN.md
 #theme: cinder
 #theme: mkdocs
 theme: readthedocs
