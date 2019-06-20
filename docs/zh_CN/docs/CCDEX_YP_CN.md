@@ -1,160 +1,14 @@
-**公开**
+# CCDEX的业务逻辑 #
 
-![](C:\Users\alfre\Documents\WP Temp\DEX\DEXP\文档\积累\业务说明\md CN/media/image1.png){width="1.7555555555555555in"
-height="2.6638888888888888in"}
-
-**CCDEX的业务逻辑**
-
-**V1.0CCDEX**
-
-**13^rd^ Jun, 2019**
-
-目录
-
-[一、 CCDEX概述 1](#ccdex概述)
-
-[（一）CCDEX是全新的交易所生态解决方案
-1](#一ccdex是全新的交易所生态解决方案)
-
-[（二）CCDEX的价值和愿景 2](#二ccdex的价值和愿景)
-
-[二、 CCDEX的交易过程和特点 2](#ccdex的交易过程和特点)
-
-[（一）交易业务角色定义 2](#一交易业务角色定义)
-
-[（二）交易过程 3](#_Toc11229454)
-
-[1.挂单 3](#挂单)
-
-[2.撮合 3](#撮合)
-
-[3.清算 4](#清算)
-
-[（三）交易业务特点 5](#三交易业务特点)
-
-[三、 CCDEX的生态治理 5](#ccdex的生态治理)
-
-[（一）开放的生态治理 5](#一开放的生态治理)
-
-[1.社区化治理方式 5](#社区化治理方式)
-
-[2.平台通证是社区治理润滑剂 5](#平台通证是社区治理润滑剂)
-
-[（二）产业链上下游合作 6](#二产业链上下游合作)
-
-[1.其他区块链项目 6](#其他区块链项目)
-
-[2.现有的钱包项目 6](#现有的钱包项目)
-
-[3.数字资产开发团队 6](#数字资产开发团队)
-
-[4.现有的交易所 7](#现有的交易所)
-
-[5.计划参与数字资产交易的资本和项目方
-7](#计划参与数字资产交易的资本和项目方)
-
-[6.交易用户 7](#交易用户)
-
-[（三）CCDEX的收入来源 8](#三ccdex的收入来源)
-
-[（四）激励设计和效果 8](#四激励设计和效果)
-
-[1.设计宗旨 8](#设计宗旨)
-
-[2.激励规则 8](#激励规则)
-
-[3.基于帕累托最优原则的订单共享激励机制
-8](#基于帕累托最优原则的订单共享激励机制)
-
-[4.对不同角色的奖励 9](#对不同角色的奖励)
-
-[5.激励效果 10](#激励效果)
-
-[（五）CCDEX业务体系的参与方式 11](#五ccdex业务体系的参与方式)
-
-[1.参与CCDEX的推广 11](#参与ccdex的推广)
-
-[2.成为CCDEX生态内的订单接收者 11](#成为ccdex生态内的订单接收者)
-
-[3.成为CCDEX生态内的交易撮合节点 11](#成为ccdex生态内的交易撮合节点)
-
-[4.成为CCDEX生态内的交易所 11](#成为ccdex生态内的交易所)
-
-[四、 CCDEX的业务创新 11](#ccdex的业务创新)
-
-[（一）CCDEX的跨链实现 12](#_Toc19228)
-
-[（二）CCDEX的撮合机制 13](#二ccdex的撮合机制)
-
-[（三）CCDEX的资产安全 13](#三ccdex的资产安全)
-
-[（四）CCDEX的交易公平保证 14](#四ccdex的交易公平保证)
-
-[（五）CCDEX的生态激励 15](#五ccdex的生态激励)
-
-[五、 不同类型加密数字资产交易所对比
-15](#不同类型加密数字资产交易所对比)
-
-[（一）加密数字资产交易所的评价指标 15](#一加密数字资产交易所的评价指标)
-
-[1.资产安全性（Asset security） 15](#资产安全性asset-security)
-
-[2.交易公平性（Transaction fairness）
-16](#交易公平性transaction-fairness)
-
-[3.市场流动性（Market liquidity） 16](#市场流动性market-liquidity)
-
-[4.生态开放性（Ecological openness） 16](#生态开放性ecological-openness)
-
-[5.交易体验（Trading experience） 16](#交易体验trading-experience)
-
-[（二）CEX和DEX的对比 16](#二cex和dex的对比)
-
-[1.资产安全性（Asset security） 16](#资产安全性asset-security-1)
-
-[2.交易公平性（Transaction fairness）
-18](#交易公平性transaction-fairness-1)
-
-[3.市场流动性（Market liquidity） 20](#市场流动性market-liquidity-1)
-
-[4.生态开放性（Ecological openness）
-20](#生态开放性ecological-openness-1)
-
-[5.交易体验（Trading experience） 22](#交易体验trading-experience-1)
-
-[6.结论 23](#结论)
-
-[（三）CCDEX与CEX、DEX的对比 24](#三ccdex与cexdex的对比)
-
-[1.资产安全性（Asset security） 24](#资产安全性asset-security-2)
-
-[2.交易公平性（Transaction fairness）
-25](#交易公平性transaction-fairness-2)
-
-[3.市场流动性（Market liquidity） 26](#市场流动性market-liquidity-2)
-
-[4.生态开放性（Ecological openness）
-26](#生态开放性ecological-openness-2)
-
-[5.交易体验（Trading experience） 27](#交易体验trading-experience-2)
-
-[6.结论 27](#结论-2)
-
-[六、 CCDEX的业务拓展 29](#ccdex的业务拓展)
-
-[（一）近期业务拓展内容 29](#一近期业务拓展内容)
-
-[（二）远期业务拓展内容 29](#二远期业务拓展内容)
+##### *V 1.0* #####
 
 基于CCDEX（Cross-Chain Decentralized
 Exchange）交易协议栈构建的跨链去中心化交易所生态，较传统的单一去中心化交易所DEX（Decentralized
 Exchange），在交易机制、利润分配和激励、开放生态构建等方面，有巨大的突破和创新。CCDEX实现的加密数字资产跨地域、跨交易所交易，是全球范围内价值自由流动的基石和保证。
 
-CCDEX概述
-=========
+# 一、CCDEX概述 #
 
-（一）CCDEX是全新的交易所生态解决方案
--------------------------------------
+## （一）CCDEX是全新的交易所生态解决方案 ##
 
 首先，CCDEX是对现有DEX交易协议的升级换代。之前的去中心化交易协议，例如0x、R1等，仅能解决单一价值生态的订单撮合问题，且没有考虑去中心化交易所在交易结算、跨链方面的需求。CCDEX基于密码算法实现了跨链协议，使得构建在CCDEX跨链协议上的去中心化交易所首次能够支持更多的跨链资产交易对交易。
 
@@ -163,10 +17,9 @@ CCDEX概述
 再次，CCDEX是一套完整的全新跨链去中心化交易协议栈（Exchange Protocol
 Stack）整体解决方案。基于该协议栈，用户可以方便地构建支持加密资产高性能跨链操作的新一代去中心化交易所。
 
-![C:\\Users\\Administrator\\Desktop\\ccdex-交易所协议.png](C:\Users\alfre\Documents\WP Temp\DEX\DEXP\文档\积累\业务说明\md CN/media/image4.png){width="4.737826990376203in"
-height="3.2in"}
+![](img/yp_image4.png)
 
-图 1
+###### .　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　<center>*图 1*</center>
 
 最后，CCDEX是全新的交易所生态解决方案。CCDEX设计了促进交易所订单共享的交易手续费分配原则，激励生态内各节点订单共享，进而实现了生态共建。
 
