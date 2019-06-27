@@ -3,6 +3,7 @@ nav:
         - 主页: index.md
         - 关键技术: KeyTechnique.md
         - 规则和激励模型: RulesAndIncentiveModels.md
+        - 业务逻辑: CCDEX_YP_CN.md
         - 钱包用户手册: Wallet_Manual_zh_CN.md
 #theme: cinder
 #theme: mkdocs

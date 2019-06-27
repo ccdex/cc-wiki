@@ -5,6 +5,7 @@ nav:
         - Home: index.md
         - Key Technique: KeyTechnique.md
         - Rule and incentive models: RulesAndIncentiveModels.md
+        - Business Logic : CCDEX_YP_EN.md
         - Wallet Manual: Wallet_Manual_us_EN.md
 #theme: cinder
 #theme: mkdocs
